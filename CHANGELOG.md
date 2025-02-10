@@ -10,14 +10,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 ### Documentation
 
 - *(changelog)* Update CHANGELOG in Auto Changelog
+- *(changelog)* Update CHANGELOG in Auto Changelog
 
 ### Other
 
-- Update release.yml
-- Create changelog.yml
-- Update and rename ChangeLog.md to CHANGELOG.md
-- Create config-cliff.toml
-- Create ChangeLog.md
-- Create release.yml
-- Initial commit
+- *(other)* Update config-cliff.toml
+- *(other)* Update release.yml
+- *(other)* Create changelog.yml
+- *(other)* Update and rename ChangeLog.md to CHANGELOG.md
+- *(other)* Create config-cliff.toml
+- *(other)* Create ChangeLog.md
+- *(other)* Create release.yml
+- *(other)* Initial commit
 
