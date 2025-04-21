@@ -11,16 +11,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 - Ignore changelog message
 
-### Documentation
-
-- *(changelog)* Update CHANGELOG in Auto Changelog
-- *(changelog)* Update CHANGELOG in Auto Changelog
-- *(changelog)* Update CHANGELOG in Auto Changelog
-- *(changelog)* Update CHANGELOG in Auto Changelog
-- *(changelog)* Update CHANGELOG in Auto Changelog
-
 ### Other
 
+- *(other)* Update
 - *(other)* Update order
 - *(other)* New file
 - *(other)* Update config-cliff.toml
