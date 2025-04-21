@@ -16,9 +16,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 - *(changelog)* Update CHANGELOG in Auto Changelog
 - *(changelog)* Update CHANGELOG in Auto Changelog
 - *(changelog)* Update CHANGELOG in Auto Changelog
+- *(changelog)* Update CHANGELOG in Auto Changelog
 
 ### Other
 
+- *(other)* New file
 - *(other)* Update config-cliff.toml
 - *(other)* Update release.yml
 - *(other)* Create changelog.yml
