@@ -7,8 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+### Added
+
+- Ignore changelog message
+
 ### Documentation
 
+- *(changelog)* Update CHANGELOG in Auto Changelog
 - *(changelog)* Update CHANGELOG in Auto Changelog
 - *(changelog)* Update CHANGELOG in Auto Changelog
 
