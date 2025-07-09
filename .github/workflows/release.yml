@@ -47,14 +47,14 @@ jobs:
           config: config-cliff.toml
           args: --verbose
         env:
-          OUTPUT: CHANGELOG.md
+          OUTPUT: ChangeLog.md
 
       - name: Commit updated ChangeLog
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add CHANGELOG.md
-          git commit -m "docs(changelog): update CHANGELOG in Auto Release"
+          git add ChangeLog.md
+          git commit -m "docs(changelog): update ChangeLog in Auto Release"
           git push origin main
 
   release:
